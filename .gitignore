@@ -1,1 +1,5 @@
 .vscode
+.venv**/
+/Python/5_slackApp/SETTINGS.py
+
+**/*.pyc
